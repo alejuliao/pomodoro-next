@@ -14,7 +14,7 @@
   Move.it
 </h1>
 <h3 align="center">
-	NLW: Next Level Week - (React + NextJs + Typescript + CSS)
+	Next Level Week - (React + Next + Typescript + CSS)
 </h3>
 <h4 align="center">
 	Acesse a demo:
