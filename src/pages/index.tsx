@@ -20,7 +20,7 @@ export default function Home(props) {
   console.log(props);
   return (
     <ChallengesProvider
-      level={props.level}
+      level={props.level}m
       currentExperience={props.currentExperience}
       challengesCompleted={props.challengesCompleted}
     >

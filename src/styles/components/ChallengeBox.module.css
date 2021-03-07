@@ -1,6 +1,7 @@
 .challengeBoxContainer {
   height: 100%;
-
+  margin-top: 1rem;
+  width: 85vw;
   background: var(--white);
   border-radius: 5px;
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
@@ -14,6 +15,24 @@
   text-align: center;
 }
 
+
+@media(min-width: 600px){
+  .challengeBoxContainer {
+    height: 100%;
+    width: inherit;
+    background: var(--white);
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
+    padding: 1.5rem 2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+  }
+}
 .challengeNotActive {
   display: flex;
   flex-direction: column;
