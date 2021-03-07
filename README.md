@@ -95,7 +95,7 @@ $ yarn dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website** ([Vue](https://vuejs.org/) + [Nuxt](https://nuxtjs.org/) + [TypeScript](https://www.typescriptlang.org/) + [TailwindCSS](https://tailwindcss.com/)) (React + NextJs + Typescript + CSS)
+#### **Website** ([React](https://reactjs.org/) + [Next](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/) + [CSS](https://www.w3.org/Style/CSS/#specs))
 
 <br>
 
